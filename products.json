@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Lapiz",
+    "description": "Es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 1
+  },  {
+    "title": "Borrador",
+    "description": "No es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 2
+  },  {
+    "title": "Sacapuntas",
+    "description": "No es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 3
+  },  {
+    "title": "microondas",
+    "description": "No es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 4
+  },  {
+    "title": "Laptop",
+    "description": "No es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 5
+  },  {
+    "title": "Zapato",
+    "description": "No es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 6
+  },  {
+    "title": "Puerta",
+    "description": "No es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 7
+  },  {
+    "title": "Camisa",
+    "description": "No es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 8
+  },  {
+    "title": "Coche",
+    "description": "No es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 9
+  }  ,{
+    "title": "Moto",
+    "description": "No es un lapiz",
+    "price": 250,
+    "thumbnail": "url",
+    "code": 7676767,
+    "stock": 20,
+    "id": 10
+  }
+]
